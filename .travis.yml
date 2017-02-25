@@ -4,3 +4,4 @@ rvm:
   - jruby
 install:
   - gem install jekyll bundler
+script: bundle exec jekyll build
