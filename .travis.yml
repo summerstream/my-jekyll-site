@@ -3,4 +3,5 @@ rvm:
   - 2.2
 install:
   - gem install jekyll bundler
+before_script:bundle install
 script: jekyll build
