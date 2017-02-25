@@ -2,3 +2,5 @@ language: ruby
 rvm:
   - 2.4
   - jruby
+install:
+  - gem install jekyll bundler
