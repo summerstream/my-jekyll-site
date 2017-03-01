@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "巧用Charles Rewrite 实现hybrid真机开发"
-date:   2017-02-09 22:26:16 +0800
+date:   2017-03-02 02:45:00 +0800
 categories: jekyll 
 ---
 作为一名"实践是检验真理的唯一标准"的拥护者,偶hybrid开发时有个 边撸代码边看真机效果 的好习惯.
