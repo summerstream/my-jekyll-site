@@ -4,5 +4,14 @@ title:  "test auto post"
 date:   2017-03-05 18:54:43  +0800
 categories: jekyll 
 ---
-haha
+So tedious everytime I write a new blog.
+So I just did some coding work to simplify it!
+So the current procedure to post a new blog is :
 
+1.sh new.sh {title}
+2.sh time.sh
+3.replace the datetime in the new blog (just paste!)
+4.write content
+4.sh build-and-post.sh
+
+Congratulations! hahaha...
