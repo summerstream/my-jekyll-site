@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  {{page.title}}
-date:   {{page.date}}
-categories:  
+title:  ""
+date:   2017-01-01 00:00:00 +0800
+categories: jekyll 
 ---
 haha
 
