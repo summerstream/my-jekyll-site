@@ -1,0 +1,8 @@
+---
+layout: post
+title:  {{page.title}}
+date:   {{page.date}}
+categories:  
+---
+haha
+
