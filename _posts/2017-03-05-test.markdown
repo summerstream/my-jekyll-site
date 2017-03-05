@@ -3,8 +3,6 @@ layout: post
 date:   2017-03-05 18:54:43  +0800
 categories:  
 ---
-{% include header.html %}
-
 So tedious everytime I write a new blog.
 So I just did some coding work to simplify it!
 So the current procedure to post a new blog is :
