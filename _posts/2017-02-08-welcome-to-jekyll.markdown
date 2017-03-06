@@ -23,3 +23,50 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+* item1
+* item2
+
+highlight `China` 
+
+``` javascript
+ console.log('haha');
+ alert('haha');
+```
+
+you can also wirte codes using jekyll like this:
+
+{% highlight javascript %}
+alert('haha');
+{% endhighlight %}
+
+
+column1 | column2 | column3 
+--- |---|---
+1 | 2 | 3 
+*Hellow* | `world` | **YES** 
+
+> Are you a man?
+yes. I am. and you?
+>hahaha. `hahaha`
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+---
+***
+___
+
+return line to sepate paragraphs
+
+fhsfjskljfl  
+hellow world.input double blank to break line  
+haha
+
+
+[click here to visit my website](http://culno.github.io/)
