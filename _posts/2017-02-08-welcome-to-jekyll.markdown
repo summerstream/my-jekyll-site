@@ -29,6 +29,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 highlight `China` 
 
+use four space or two tab to write codes:
+
+    console.log('fsf');
+
+    alert('');
+
+or 
+
 ``` javascript
  console.log('haha');
  alert('haha');
